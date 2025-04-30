@@ -65,6 +65,9 @@ imgCapture.release()
 - `cv2.VideoCapture(0)` – Accesses the default webcam.
 - `cv2.imwrite()` – Writes the frame as an image file.
 
+### 📢 Watch Demo 
+(https://drive.google.com/file/d/1YgU0nVwKp4XCXqrmOHQkBHpNTe_Eb9SB/view?usp=sharing)
+
 ### 📂 Output
 
 After running the script, you’ll find a file named `test.jpg` in your project directory.
